@@ -38,7 +38,7 @@ Images (S3) → PySpark → MobileNetV2 (Feature Extraction) → PCA → Résult
 - Chargement du modèle TensorFlow une seule fois sur le driver
 - Broadcast des poids vers tous les workers
 - **Résultat** : Accélération ~6x du traitement (30 min → 5 min)
-
+w
 ### 2. Réduction de dimensionnalité avec PCA
 - Réduction des features de 1280 à 50 dimensions
 - **Résultat** : Compression ~25x du stockage (5 GB → 200 MB pour 1M d'images)
