@@ -25,6 +25,9 @@ La startup Fruits! souhaite développer une application mobile permettant aux ut
 - **TensorFlow / MobileNetV2** : Extraction de features via deep learning
 - **S3** : Stockage des données et résultats
 - **Région AWS** : eu-west-3 (Paris) pour conformité RGPD
+## Vidéo de présentation AWS
+
+🎥 [Voir la vidéo de présentation AWS](https://github.com/dimitri-feniou/openclassrooms-projet11-aws-big-data/releases/download/vid%C3%A9o/Presentation_video_aws.mp4)
 
 ## Architecture
 
